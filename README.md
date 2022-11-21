@@ -16,4 +16,4 @@ Output = Hello guys in this code i will show you a Diamond shape which is made o
                        *
                                       
                                       
-<--------------------------------------------------THANKS FOR READING-------------------------------------------------->
+<---------------THANKS FOR READING--------------->
